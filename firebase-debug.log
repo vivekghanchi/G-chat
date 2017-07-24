@@ -1,0 +1,105 @@
+[debug] [2017-07-23T17:46:52.085Z] ----------------------------------------------------------------------
+[debug] [2017-07-23T17:46:52.085Z] Command:      C:\Program Files\nodejs\node.exe C:\Users\Vivek Ghanchi\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-07-23T17:46:52.085Z] CLI Version:  3.9.1
+[debug] [2017-07-23T17:46:52.085Z] Platform:     win32
+[debug] [2017-07-23T17:46:52.085Z] Node Version: v8.1.2
+[debug] [2017-07-23T17:46:52.085Z] Time:         Sun Jul 23 2017 23:16:52 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:46:52.085Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-07-23T17:46:52.100Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-07-23T17:46:52.100Z] > authorizing via signed-in user
+[debug] [2017-07-23T17:46:52.100Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-5e676  
+ Sun Jul 23 2017 23:16:52 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:46:54.288Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-23T17:46:54.288Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-5e676/tokens  
+ Sun Jul 23 2017 23:16:54 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:46:56.088Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\xampp\htdocs\friendlychat-web\web-start'...
+[info] 
+[debug] [2017-07-23T17:46:56.092Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-5e676  
+ Sun Jul 23 2017 23:16:56 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:46:59.220Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-23T17:46:59.220Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/67046085044/clients/_:getWebAppConfig  
+ Sun Jul 23 2017 23:16:59 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:47:00.165Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
+[debug] [2017-07-23T17:47:54.604Z] ----------------------------------------------------------------------
+[debug] [2017-07-23T17:47:54.620Z] Command:      C:\Program Files\nodejs\node.exe C:\Users\Vivek Ghanchi\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-07-23T17:47:54.620Z] CLI Version:  3.9.1
+[debug] [2017-07-23T17:47:54.620Z] Platform:     win32
+[debug] [2017-07-23T17:47:54.620Z] Node Version: v8.1.2
+[debug] [2017-07-23T17:47:54.620Z] Time:         Sun Jul 23 2017 23:17:54 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:47:54.620Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-07-23T17:47:54.635Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-07-23T17:47:54.635Z] > authorizing via signed-in user
+[debug] [2017-07-23T17:47:54.635Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-5e676  
+ Sun Jul 23 2017 23:17:54 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:47:56.473Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-23T17:47:56.473Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-5e676/tokens  
+ Sun Jul 23 2017 23:17:56 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:47:57.801Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\xampp\htdocs\friendlychat-web\web-start'...
+[info] 
+[debug] [2017-07-23T17:47:57.817Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-5e676  
+ Sun Jul 23 2017 23:17:57 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:47:59.723Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-23T17:47:59.723Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/67046085044/clients/_:getWebAppConfig  
+ Sun Jul 23 2017 23:17:59 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:00.825Z] <<< HTTP RESPONSE 200
+[warn] !  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-07-23T17:48:00.856Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-5e676  
+ Sun Jul 23 2017 23:18:00 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:02.639Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-23T17:48:02.639Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/67046085044/clients/_:getWebAppConfig  
+ Sun Jul 23 2017 23:18:02 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:06.644Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5004
+
+[debug] [2017-07-23T17:48:27.927Z] ----------------------------------------------------------------------
+[debug] [2017-07-23T17:48:27.927Z] Command:      C:\Program Files\nodejs\node.exe C:\Users\Vivek Ghanchi\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-07-23T17:48:27.927Z] CLI Version:  3.9.1
+[debug] [2017-07-23T17:48:27.927Z] Platform:     win32
+[debug] [2017-07-23T17:48:27.927Z] Node Version: v8.1.2
+[debug] [2017-07-23T17:48:27.927Z] Time:         Sun Jul 23 2017 23:18:27 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:27.927Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-07-23T17:48:27.942Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-07-23T17:48:27.942Z] > authorizing via signed-in user
+[debug] [2017-07-23T17:48:27.942Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-5e676  
+ Sun Jul 23 2017 23:18:27 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:29.942Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-23T17:48:29.942Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-5e676/tokens  
+ Sun Jul 23 2017 23:18:29 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:31.083Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\xampp\htdocs\friendlychat-web\web-start'...
+[info] 
+[debug] [2017-07-23T17:48:31.099Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-5e676  
+ Sun Jul 23 2017 23:18:31 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:32.906Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-23T17:48:32.906Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/67046085044/clients/_:getWebAppConfig  
+ Sun Jul 23 2017 23:18:32 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:34.484Z] <<< HTTP RESPONSE 200
+[warn] !  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-07-23T17:48:34.500Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-5e676  
+ Sun Jul 23 2017 23:18:34 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:36.229Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-23T17:48:36.229Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/67046085044/clients/_:getWebAppConfig  
+ Sun Jul 23 2017 23:18:36 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:37.135Z] <<< HTTP RESPONSE 200
+[warn] !  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-07-23T17:48:37.135Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-5e676  
+ Sun Jul 23 2017 23:18:37 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:38.948Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-23T17:48:38.948Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/67046085044/clients/_:getWebAppConfig  
+ Sun Jul 23 2017 23:18:38 GMT+0530 (India Standard Time)
+[debug] [2017-07-23T17:48:39.698Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5008
+
