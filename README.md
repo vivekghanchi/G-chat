@@ -8,7 +8,8 @@ This is a G-chat application for web Using
 
 ## Introduction 
 
-This is Real time chat application  for multiple user.
+This is Real time chat application  for multiple users.
+This is group chat application where multiple  users chat together.
 
 ## Application
 
